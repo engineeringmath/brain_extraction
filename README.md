@@ -4,7 +4,7 @@ This is a deep learning model for segmentation of brain in fetal T2  MR images.
 
 Developed at IMAGINE laboratory (https://imagine.med.harvard.edu/) of Boston Children's Hospital.
 
-Training code can be provided to the interested upon request (davood.karimi@childrens/harvard.edu).
+Training code can be provided to the interested upon request (davood.karimi@childrens.harvard.edu).
 
 ## Docker model
 
