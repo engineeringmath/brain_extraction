@@ -9,6 +9,6 @@ docker run   --mount src=/IMG_DIR/,target=/src/test_images/,type=bind  brain_ext
 
 Example results
 
-![alt text](https://github.com/engineeringmath/brain_extraction/sample_results/older.png?raw=true "older fetus" )
+![alt text](https://github.com/engineeringmath/brain_extraction/tree/master/sample_results/older.png?raw=true "older fetus" )
 
-![alt text](https://github.com/engineeringmath/brain_extraction/sample_results/younger.png?raw=true "younger fetus")
+![alt text](https://github.com/engineeringmath/brain_extraction/tree/master/sample_results/younger.png?raw=true "younger fetus")
